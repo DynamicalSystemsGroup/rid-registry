@@ -19,6 +19,9 @@ discord.guild | \<guild_id> | orn:discord.guild:845050172501262337
 discord.channel | \<channel_id> | orn:discord.channel:845050173074702368
 discord.message | \<channel_id>/\<message_id> | orn:discord.message:845050173074702368/1283346875046563891
 discord.user | \<user_id> | orn:discord.user:151856436710866944
+hackmd.note | \<team_path OR user_path>/\<note_id> | orn:hackmd.note:blockscience/GL3924k5SOS0EGNLNug8gg
+hackmd.team | \<team_path> | orn:hackmd.team:blockscience
+hackmd.user | \<user_path> | orn:hackmd.user:lukvmil
 
 ## Contribution
 *Note: when adding new entries, escape angle brackets by adding a backslash before the "tag" like this: `\<tag>`*
