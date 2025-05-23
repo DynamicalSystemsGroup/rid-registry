@@ -12,6 +12,8 @@ orn:\<namespace> | (see table below) | (see table below)
 ### **IN ACTIVE USE:**
 Namespace | Reference | Example
 --- | --- | --- 
+koi-net.node | \<name>+\<uuid> | orn:koi-net.node:coordinator+df606b90-b765-4786-b90e-3a6ec2da32da
+koi-net.edge | \<id> | orn:koi-net.edge:4a1620d3d703aa07ba0852839c8f95173e44b87e40309fbb71e74fd8021f5b85
 slack.workspace | \<team_id> | orn:slack.workspace:TA2E6KPK3
 slack.channel | \<team_id>/\<channel_id> | orn:slack.channel:TA2E6KPK3/C0593RJJ2CW
 slack.message | \<team_id>/\<channel_id>/\<ts> | orn:slack.message:TA2E6KPK3/C0593RJJ2CW/1731942828.456509
